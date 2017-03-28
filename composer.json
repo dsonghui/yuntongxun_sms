@@ -1,0 +1,13 @@
+{
+    "name": "dsonghui/yuntongxun-sms",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dsonghui",
+            "email": "dsonghui1985@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
